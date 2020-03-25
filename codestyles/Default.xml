@@ -2,9 +2,6 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,style,script" />
   </HTMLCodeStyleSettings>
-  <Objective-C>
-    <option name="SPACE_BEFORE_TEMPLATE_DECLARATION_LT" value="true" />
-  </Objective-C>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -30,11 +27,6 @@
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="ObjectiveC">
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SASS">
