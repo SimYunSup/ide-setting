@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1717dc64-a6b6-4a2c-a9f4-cd2062977a44" name="WSL (1717dc64-a6b6-4a2c-a9f4-cd2062977a44)" url="http:///">
+        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="d34f34f8-15a0-4704-8689-5965d7bec789" sshConfig="hjnn@localhost:2222 password" />
+      </webServer>
+    </option>
+  </component>
+</application>
